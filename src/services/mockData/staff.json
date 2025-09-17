@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "name": "Dr. Emily Smith",
+    "role": "Doctor",
+    "department": "General Medicine",
+    "phone": "+1 (555) 111-1111",
+    "email": "e.smith@medflow.com",
+    "specialization": "Internal Medicine",
+    "licenseNumber": "MD12345",
+    "hireDate": "2020-03-15",
+    "status": "Active"
+  },
+  {
+    "Id": 2,
+    "name": "Dr. James Wilson",
+    "role": "Doctor",
+    "department": "Pulmonology",
+    "phone": "+1 (555) 222-2222",
+    "email": "j.wilson@medflow.com",
+    "specialization": "Respiratory Medicine",
+    "licenseNumber": "MD12346",
+    "hireDate": "2019-08-20",
+    "status": "Active"
+  },
+  {
+    "Id": 3,
+    "name": "Dr. Lisa Johnson",
+    "role": "Doctor",
+    "department": "Neurology",
+    "phone": "+1 (555) 333-3333",
+    "email": "l.johnson@medflow.com",
+    "specialization": "Neurology",
+    "licenseNumber": "MD12347",
+    "hireDate": "2021-01-10",
+    "status": "Active"
+  },
+  {
+    "Id": 4,
+    "name": "Dr. Robert Lee",
+    "role": "Doctor",
+    "department": "Cardiology",
+    "phone": "+1 (555) 444-4444",
+    "email": "r.lee@medflow.com",
+    "specialization": "Cardiology",
+    "licenseNumber": "MD12348",
+    "hireDate": "2018-06-05",
+    "status": "Active"
+  },
+  {
+    "Id": 5,
+    "name": "Dr. Maria Martinez",
+    "role": "Doctor",
+    "department": "Endocrinology",
+    "phone": "+1 (555) 555-5555",
+    "email": "m.martinez@medflow.com",
+    "specialization": "Endocrinology",
+    "licenseNumber": "MD12349",
+    "hireDate": "2022-02-28",
+    "status": "Active"
+  },
+  {
+    "Id": 6,
+    "name": "Nurse Sarah Anderson",
+    "role": "Nurse",
+    "department": "Emergency",
+    "phone": "+1 (555) 666-6666",
+    "email": "s.anderson@medflow.com",
+    "specialization": "Emergency Care",
+    "licenseNumber": "RN12345",
+    "hireDate": "2020-09-12",
+    "status": "Active"
+  },
+  {
+    "Id": 7,
+    "name": "Nurse Michael Thompson",
+    "role": "Nurse",
+    "department": "ICU",
+    "phone": "+1 (555) 777-7777",
+    "email": "m.thompson@medflow.com",
+    "specialization": "Critical Care",
+    "licenseNumber": "RN12346",
+    "hireDate": "2019-11-30",
+    "status": "Active"
+  },
+  {
+    "Id": 8,
+    "name": "Dr. Karen Garcia",
+    "role": "Doctor",
+    "department": "Orthopedics",
+    "phone": "+1 (555) 888-8888",
+    "email": "k.garcia@medflow.com",
+    "specialization": "Orthopedic Surgery",
+    "licenseNumber": "MD12350",
+    "hireDate": "2017-04-18",
+    "status": "Active"
+  },
+  {
+    "Id": 9,
+    "name": "John Mitchell",
+    "role": "Admin",
+    "department": "Administration",
+    "phone": "+1 (555) 999-9999",
+    "email": "j.mitchell@medflow.com",
+    "specialization": "Hospital Administration",
+    "licenseNumber": "ADM001",
+    "hireDate": "2021-07-01",
+    "status": "Active"
+  },
+  {
+    "Id": 10,
+    "name": "Tech David Rodriguez",
+    "role": "Technician",
+    "department": "Radiology",
+    "phone": "+1 (555) 101-0101",
+    "email": "d.rodriguez@medflow.com",
+    "specialization": "Medical Imaging",
+    "licenseNumber": "RT12345",
+    "hireDate": "2020-12-15",
+    "status": "Active"
+  }
+]

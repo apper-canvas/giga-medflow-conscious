@@ -1,0 +1,156 @@
+[
+  {
+    "Id": 1,
+    "patientId": "1",
+    "patientName": "Emma Johnson",
+    "invoiceNumber": "INV-2024-001",
+    "date": "2024-01-15",
+    "amount": 450.00,
+    "paidAmount": 450.00,
+    "status": "Paid",
+    "dueDate": "2024-02-15",
+    "services": [
+      {
+        "description": "General Consultation",
+        "amount": 150.00
+      },
+      {
+        "description": "Blood Test",
+        "amount": 100.00
+      },
+      {
+        "description": "X-Ray",
+        "amount": 200.00
+      }
+    ],
+    "insurance": {
+      "provider": "Blue Cross Blue Shield",
+      "covered": 350.00,
+      "patientResponsibility": 100.00
+    }
+  },
+  {
+    "Id": 2,
+    "patientId": "2",
+    "patientName": "David Chen",
+    "invoiceNumber": "INV-2024-002",
+    "date": "2024-01-12",
+    "amount": 320.00,
+    "paidAmount": 0.00,
+    "status": "Pending",
+    "dueDate": "2024-02-12",
+    "services": [
+      {
+        "description": "Pulmonology Consultation",
+        "amount": 200.00
+      },
+      {
+        "description": "Spirometry Test",
+        "amount": 120.00
+      }
+    ],
+    "insurance": {
+      "provider": "Aetna",
+      "covered": 240.00,
+      "patientResponsibility": 80.00
+    }
+  },
+  {
+    "Id": 3,
+    "patientId": "3",
+    "patientName": "Sarah Williams",
+    "invoiceNumber": "INV-2024-003",
+    "date": "2024-01-10",
+    "amount": 680.00,
+    "paidAmount": 200.00,
+    "status": "Partial",
+    "dueDate": "2024-02-10",
+    "services": [
+      {
+        "description": "Neurology Consultation",
+        "amount": 250.00
+      },
+      {
+        "description": "MRI Scan",
+        "amount": 400.00
+      },
+      {
+        "description": "Lab Work",
+        "amount": 30.00
+      }
+    ],
+    "insurance": {
+      "provider": "United Healthcare",
+      "covered": 480.00,
+      "patientResponsibility": 200.00
+    }
+  },
+  {
+    "Id": 4,
+    "patientId": "4",
+    "patientName": "Michael Brown",
+    "invoiceNumber": "INV-2024-004",
+    "date": "2024-01-08",
+    "amount": 890.00,
+    "paidAmount": 890.00,
+    "status": "Paid",
+    "dueDate": "2024-02-08",
+    "services": [
+      {
+        "description": "Cardiology Consultation",
+        "amount": 300.00
+      },
+      {
+        "description": "Echocardiogram",
+        "amount": 400.00
+      },
+      {
+        "description": "ECG",
+        "amount": 90.00
+      },
+      {
+        "description": "Stress Test",
+        "amount": 100.00
+      }
+    ],
+    "insurance": {
+      "provider": "Medicare",
+      "covered": 712.00,
+      "patientResponsibility": 178.00
+    }
+  },
+  {
+    "Id": 5,
+    "patientId": "6",
+    "patientName": "Robert Miller",
+    "invoiceNumber": "INV-2024-005",
+    "date": "2024-01-05",
+    "amount": 1250.00,
+    "paidAmount": 0.00,
+    "status": "Overdue",
+    "dueDate": "2024-01-05",
+    "services": [
+      {
+        "description": "Orthopedic Consultation",
+        "amount": 250.00
+      },
+      {
+        "description": "MRI - Spine",
+        "amount": 600.00
+      },
+      {
+        "description": "Physical Therapy Session",
+        "amount": 150.00
+      },
+      {
+        "description": "Prescription Medications",
+        "amount": 250.00
+      }
+    ],
+    "insurance": {
+      "provider": "Humana",
+      "covered": 875.00,
+      "patientResponsibility": 375.00
+    }
+  }
+]

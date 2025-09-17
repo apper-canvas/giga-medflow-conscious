@@ -1,0 +1,90 @@
+[
+  {
+    "Id": 1,
+    "name": "Emergency Department",
+    "totalBeds": 20,
+    "occupiedBeds": 15,
+    "headOfDepartment": "Dr. Sarah Anderson",
+    "location": "Ground Floor - Wing A",
+    "phone": "+1 (555) 100-0001",
+    "status": "Active",
+    "specialties": ["Emergency Medicine", "Trauma Care"]
+  },
+  {
+    "Id": 2,
+    "name": "Intensive Care Unit",
+    "totalBeds": 12,
+    "occupiedBeds": 8,
+    "headOfDepartment": "Dr. Michael Thompson",
+    "location": "3rd Floor - Wing B",
+    "phone": "+1 (555) 100-0002",
+    "status": "Active",
+    "specialties": ["Critical Care", "Post-Operative Care"]
+  },
+  {
+    "Id": 3,
+    "name": "General Medicine",
+    "totalBeds": 30,
+    "occupiedBeds": 22,
+    "headOfDepartment": "Dr. Emily Smith",
+    "location": "2nd Floor - Wing A",
+    "phone": "+1 (555) 100-0003",
+    "status": "Active",
+    "specialties": ["Internal Medicine", "General Practice"]
+  },
+  {
+    "Id": 4,
+    "name": "Cardiology",
+    "totalBeds": 15,
+    "occupiedBeds": 10,
+    "headOfDepartment": "Dr. Robert Lee",
+    "location": "4th Floor - Wing B",
+    "phone": "+1 (555) 100-0004",
+    "status": "Active",
+    "specialties": ["Cardiac Care", "Interventional Cardiology"]
+  },
+  {
+    "Id": 5,
+    "name": "Orthopedics",
+    "totalBeds": 18,
+    "occupiedBeds": 12,
+    "headOfDepartment": "Dr. Karen Garcia",
+    "location": "3rd Floor - Wing A",
+    "phone": "+1 (555) 100-0005",
+    "status": "Active",
+    "specialties": ["Orthopedic Surgery", "Sports Medicine"]
+  },
+  {
+    "Id": 6,
+    "name": "Neurology",
+    "totalBeds": 10,
+    "occupiedBeds": 6,
+    "headOfDepartment": "Dr. Lisa Johnson",
+    "location": "5th Floor - Wing B",
+    "phone": "+1 (555) 100-0006",
+    "status": "Active",
+    "specialties": ["Neurology", "Stroke Care"]
+  },
+  {
+    "Id": 7,
+    "name": "Pediatrics",
+    "totalBeds": 25,
+    "occupiedBeds": 18,
+    "headOfDepartment": "Dr. Anna Martinez",
+    "location": "2nd Floor - Wing B",
+    "phone": "+1 (555) 100-0007",
+    "status": "Active",
+    "specialties": ["Pediatric Care", "Neonatology"]
+  },
+  {
+    "Id": 8,
+    "name": "Maternity Ward",
+    "totalBeds": 16,
+    "occupiedBeds": 9,
+    "headOfDepartment": "Dr. Jessica Wong",
+    "location": "4th Floor - Wing A",
+    "phone": "+1 (555) 100-0008",
+    "status": "Active",
+    "specialties": ["Obstetrics", "Gynecology"]
+  }
+]

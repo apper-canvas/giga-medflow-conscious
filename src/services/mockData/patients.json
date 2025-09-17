@@ -1,0 +1,136 @@
+[
+  {
+    "Id": 1,
+    "firstName": "Emma",
+    "lastName": "Johnson",
+    "dateOfBirth": "1985-03-15",
+    "gender": "Female",
+    "phone": "+1 (555) 123-4567",
+    "email": "emma.johnson@email.com",
+    "address": "123 Main St, Springfield, IL 62701",
+    "emergencyContact": {
+      "name": "Michael Johnson",
+      "relationship": "Spouse",
+      "phone": "+1 (555) 123-4568"
+    },
+    "status": "Active",
+    "lastVisit": "2024-01-15",
+    "medicalHistory": [
+      "Hypertension",
+      "Type 2 Diabetes"
+    ],
+    "bloodType": "O+",
+    "allergies": ["Penicillin", "Latex"]
+  },
+  {
+    "Id": 2,
+    "firstName": "David",
+    "lastName": "Chen",
+    "dateOfBirth": "1992-07-22",
+    "gender": "Male",
+    "phone": "+1 (555) 234-5678",
+    "email": "david.chen@email.com",
+    "address": "456 Oak Ave, Springfield, IL 62702",
+    "emergencyContact": {
+      "name": "Lisa Chen",
+      "relationship": "Mother",
+      "phone": "+1 (555) 234-5679"
+    },
+    "status": "Active",
+    "lastVisit": "2024-01-12",
+    "medicalHistory": [
+      "Asthma"
+    ],
+    "bloodType": "A-",
+    "allergies": ["Shellfish"]
+  },
+  {
+    "Id": 3,
+    "firstName": "Sarah",
+    "lastName": "Williams",
+    "dateOfBirth": "1978-11-08",
+    "gender": "Female",
+    "phone": "+1 (555) 345-6789",
+    "email": "sarah.williams@email.com",
+    "address": "789 Pine St, Springfield, IL 62703",
+    "emergencyContact": {
+      "name": "James Williams",
+      "relationship": "Brother",
+      "phone": "+1 (555) 345-6790"
+    },
+    "status": "Active",
+    "lastVisit": "2024-01-10",
+    "medicalHistory": [
+      "Migraine",
+      "Anxiety"
+    ],
+    "bloodType": "B+",
+    "allergies": []
+  },
+  {
+    "Id": 4,
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "dateOfBirth": "1965-09-30",
+    "gender": "Male",
+    "phone": "+1 (555) 456-7890",
+    "email": "michael.brown@email.com",
+    "address": "321 Elm St, Springfield, IL 62704",
+    "emergencyContact": {
+      "name": "Patricia Brown",
+      "relationship": "Spouse",
+      "phone": "+1 (555) 456-7891"
+    },
+    "status": "Active",
+    "lastVisit": "2024-01-08",
+    "medicalHistory": [
+      "Heart Disease",
+      "High Cholesterol"
+    ],
+    "bloodType": "AB+",
+    "allergies": ["Aspirin"]
+  },
+  {
+    "Id": 5,
+    "firstName": "Jennifer",
+    "lastName": "Davis",
+    "dateOfBirth": "1990-12-14",
+    "gender": "Female",
+    "phone": "+1 (555) 567-8901",
+    "email": "jennifer.davis@email.com",
+    "address": "654 Maple Dr, Springfield, IL 62705",
+    "emergencyContact": {
+      "name": "Robert Davis",
+      "relationship": "Father",
+      "phone": "+1 (555) 567-8902"
+    },
+    "status": "Inactive",
+    "lastVisit": "2023-12-20",
+    "medicalHistory": [],
+    "bloodType": "O-",
+    "allergies": ["Nuts"]
+  },
+  {
+    "Id": 6,
+    "firstName": "Robert",
+    "lastName": "Miller",
+    "dateOfBirth": "1982-04-18",
+    "gender": "Male",
+    "phone": "+1 (555) 678-9012",
+    "email": "robert.miller@email.com",
+    "address": "987 Cedar Ln, Springfield, IL 62706",
+    "emergencyContact": {
+      "name": "Amanda Miller",
+      "relationship": "Spouse",
+      "phone": "+1 (555) 678-9013"
+    },
+    "status": "Active",
+    "lastVisit": "2024-01-05",
+    "medicalHistory": [
+      "Back Pain",
+      "Arthritis"
+    ],
+    "bloodType": "A+",
+    "allergies": []
+  }
+]
