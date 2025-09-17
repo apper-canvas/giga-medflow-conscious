@@ -9,7 +9,7 @@ export default {
       fontFamily: {
         sans: ['Inter', 'system-ui', 'sans-serif'],
       },
-      colors: {
+colors: {
         primary: '#2563eb',
         secondary: '#64748b',
         accent: '#0ea5e9',
@@ -18,6 +18,7 @@ export default {
         warning: '#f59e0b',
         error: '#ef4444',
         info: '#3b82f6',
+        border: '#e2e8f0',
       },
       animation: {
         'fade-in': 'fadeIn 0.2s ease-out',
